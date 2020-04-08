@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Here goes the brand new header"
+  },
+  "footer": {
+    "title": "New Footer goes here"
+  },
+  "languages": {
+    "en": "English",
+    "id": "Indonesian"
+  }
+}

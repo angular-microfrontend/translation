@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Indonesian: Here goes the new header"
+  },
+  "footer": {
+    "title": "Indonesian: New footer goes here"
+  },
+  "languages": {
+    "en": "English",
+    "id": "Indonesian"
+  }
+}

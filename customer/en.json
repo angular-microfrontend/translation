@@ -1,0 +1,8 @@
+{
+  "customer-module": {
+    "header": {
+      "title": "The content for the dashboard module",
+      "filterBy": "Filter by title / body text"
+    }
+  }
+}
