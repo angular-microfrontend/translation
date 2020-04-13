@@ -8,5 +8,17 @@
   "languages": {
     "en": "English",
     "id": "Indonesian"
+  },
+  "aside": {
+    "title": "Routes"
+  },
+  "nav-links": {
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "customer": "Customer",
+    "customer-2": "Customer 2",
+    "customer-4": "Customer 4",
+    "customer-7": "Customer 7",
+    "customer-20": "Customer 20"
   }
 }
