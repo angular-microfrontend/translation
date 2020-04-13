@@ -3,6 +3,12 @@
     "header": {
       "title": "Indonesian: The content for the customer module",
       "filterBy": "Indonesian: Filter by title / body text"
+    },
+    "detail": {
+      "content": "Indonesian: Customer-detail works!"
+    },
+    "user": {
+      "content": "Indonesian: User works!"
     }
   }
 }

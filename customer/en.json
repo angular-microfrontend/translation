@@ -3,6 +3,12 @@
     "header": {
       "title": "The content for the customer module",
       "filterBy": "Filter by title / body text"
+    },
+    "detail": {
+      "content": "Customer-detail works!"
+    },
+    "user": {
+      "content": "User works!"
     }
   }
 }
