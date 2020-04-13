@@ -1,7 +1,7 @@
 {
   "customer-module": {
     "header": {
-      "title": "The content for the dashboard module",
+      "title": "The content for the customer module",
       "filterBy": "Filter by title / body text"
     }
   }
